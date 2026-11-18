@@ -1,0 +1,9 @@
+{
+  "version": "tfidf-v1",
+  "rows": 3,
+  "features": 23,
+  "source_hash": "31b2cd90e6e3d8b7291d82ec592c0a55a61db8d494dcec58450118c10853589f",
+  "model_size_bytes": 1885,
+  "model_path": "models/tfidf_contacts.joblib",
+  "warning": "Índice exploratorio, no certifica responsable ni autorización."
+}
