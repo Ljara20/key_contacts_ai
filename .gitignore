@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.joblib
+data/raw/*
+data/processed/*
+data/rejected/*
+reports/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/rejected/.gitkeep
+!reports/.gitkeep

@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "key-contacts-ai-local"
+version = "0.1.0"
+description = "Pipeline local para Key Contacts AI"
+requires-python = ">=3.12"
+[tool.setuptools.packages.find]
+where = ["src"]
+[tool.pytest.ini_options]
+pythonpath = ["src"]
